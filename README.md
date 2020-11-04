@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tuhri444&repo=Wasting-Space&theme=dark&show_icons=true)](https://github.com/tuhri444/Wasting-Space)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tuhri444&repo=MLVR&theme=dark&show_icons=true)](https://github.com/tuhri444/MLVR)
