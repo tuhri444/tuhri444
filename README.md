@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tuhri444&repo=ProjectShowSomething)](https://github.com/tuhri444/ProjectShowSomething)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tuhri444&repo=Wasting-Space)](https://github.com/tuhri444/Wasting-Space)
